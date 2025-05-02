@@ -41,7 +41,7 @@ const Signup = () => {
     }}
   >
     <Typography variant="h3" gutterBottom align="center" sx={{ fontFamily:"italian",fontWeight: 400, color: "primary" }}>
-      INFOSUS
+      TCS
     </Typography>
     <Typography variant="h5" gutterBottom align="center" sx={{ color: "#555",fontFamily:"italian" }}>
       Signup Form
